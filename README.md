@@ -8,4 +8,4 @@ The repository started simple, using mostly the good old HTML to structure the p
 
 Hope you enjoy!
 
-[^1]: This story can be seen with more detail on this [video](https://www.youtube.com/watch?v=ii5Q2fCl8C0) and by reading the transcript on [this] (https://www.akitaonrails.com/2018/10/16/akitando-18-motivacao-o-diario-de-henry-jones) link 
+[^1]: This story can be seen with more detail on this [video](https://www.youtube.com/watch?v=ii5Q2fCl8C0) and by reading the transcript on [this](https://www.akitaonrails.com/2018/10/16/akitando-18-motivacao-o-diario-de-henry-jones) link 
